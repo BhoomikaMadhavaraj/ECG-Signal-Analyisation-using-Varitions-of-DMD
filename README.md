@@ -1,2 +1,2 @@
 # ECG-Signal-Analyisation-using-Varitions-of-DMD
-Implementation of "Analysis of ECG Signals by Dynamic Mode Decomposition" paper to determine whether it is possible to analyse the stability of decomposed ECG subsystems in order to thoroughly examine the performance level of ECG signals and assist in disease diagnosis.
+Implementation of "Analysis of ECG Signals by Dynamic Mode Decomposition" paper,this project's objective is to diagnose heart-related disorders using ML models and analyse how well it performs overall. The method used in the research evaluates whether it is possible to examine the stability of decomposed ECG subsystems in order to properly investigate the performance of ECG signals.
